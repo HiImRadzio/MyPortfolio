@@ -1,0 +1,45 @@
+
+.Radek{
+    border-radius: 0px 0px 90px 90px;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #7D6E83;
+}
+
+a:link {
+    color: #7D6E83;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  body{
+    background-color: #F8EDE3;
+  }
+
+  .Hero{
+    background-color: #DFD3C3;
+  }
+
+  footer{
+    background-color: #D0B8A8;
+  }
+
+  .Games{
+    height: 100px;
+    border-radius: 10%
+  }
+
+h3{
+    color: #7D6E83;
+    font-weight: bold;
+}
+
+h1{
+    color: #7D6E83;
+    font-weight: bold;
+}
